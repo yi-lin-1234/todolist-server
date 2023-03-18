@@ -1,4 +1,4 @@
-# SpringTodo
+# SpringTodo backend
 A simple todo application REST API developed using Spring Boot.
 
 ## Overview
@@ -13,4 +13,7 @@ Used **Spring Data JPA** for CRUD operations on a **Postgres** database, deploye
 
 ## Live version
 [my todolist](https://amazing-kashata-3786cd.netlify.app/)
+
+## frontend repo
+[link](https://github.com/yi-lin-1234/todolist-app)
 
