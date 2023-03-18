@@ -1,7 +1,7 @@
 version: "3.8"
 services:
   backend:
-    image: "yilin0123/todolist-backend-rest-api:18.3.2023.22.41.0"
+    image: "yilin0123/todolist-backend-rest-api:18.3.2023.22.55.3"
     ports:
       - "80:8080"
     restart: "always"
