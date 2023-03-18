@@ -14,6 +14,6 @@ Used **Spring Data JPA** for CRUD operations on a **Postgres** database, deploye
 ## Live version
 [my todolist](https://amazing-kashata-3786cd.netlify.app/)
 
-## frontend repo
+## frontend repository
 [link](https://github.com/yi-lin-1234/todolist-app)
 
