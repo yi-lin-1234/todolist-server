@@ -6,7 +6,7 @@ Used **Spring Data JPA** for CRUD operations on a **Postgres** database, deploye
 
 ## Features
 1. CRUD operation
-2. CICD with Github Action
+2. CICD with [Github Action](https://github.com/features/actions) and [Jib](https://github.com/GoogleContainerTools/jib#readme)
 
 ## Architecture Diagram
 [Diagram](https://asset.cloudinary.com/yilin1234/cc4ff5421104eb7ef191133eac54663d)
