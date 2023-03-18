@@ -11,3 +11,6 @@ Used **Spring Data JPA** for CRUD operations on a **Postgres** database, deploye
 ## Architecture Diagram
 [Diagram](https://asset.cloudinary.com/yilin1234/cc4ff5421104eb7ef191133eac54663d)
 
+## Live version
+[my todolist](https://amazing-kashata-3786cd.netlify.app/)
+
